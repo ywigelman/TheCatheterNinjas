@@ -9,3 +9,5 @@ train
 train_tfrecords
 test_resize
 train_resize
+BaselineSingleLabel
+BaselineSingleLabelCLAHE
