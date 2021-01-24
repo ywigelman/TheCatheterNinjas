@@ -7,3 +7,5 @@ test
 test_tfrecords
 train
 train_tfrecords
+test_resize
+train_resize
