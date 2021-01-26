@@ -10,6 +10,6 @@ Computer Vision Project as part of an ITC Data Science course
 
 # BaselineModel
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/blob/basemodel/Baseline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/Danz/Baseline_c.ipynb)
 * Make sure to upload kaggle.json to the colab notebook in order to get the data.
 
