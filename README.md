@@ -8,8 +8,11 @@ Computer Vision Project as part of an ITC Data Science course
 * Make sure to upload kaggle.json to the colab notebook in order to get the data.
 
 
-# BaselineModel
+# Basic model
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/blob/Danz/Baseline_C.ipynb)
 * Make sure to upload kaggle.json to the colab notebook in order to get the data.
 
+# Testing a model
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/blob/Danz/Evaluation_a_model.ipynb)
