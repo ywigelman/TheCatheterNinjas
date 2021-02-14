@@ -16,3 +16,7 @@ Computer Vision Project as part of an ITC Data Science course
 # Testing a model
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/blob/Danz/Evaluation_a_model.ipynb)
+
+# InceptionResNet_16b_5p_Nadam
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/blob/Danz/InceptionResNetV2_NF_16b_5p_Nadam.ipynb)
