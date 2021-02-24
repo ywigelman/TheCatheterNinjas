@@ -7,7 +7,6 @@ Computer Vision Project as part of an ITC Data Science course
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/blob/Danz/Final_EDA.ipynb)
 * Make sure to upload kaggle.json to the colab notebook in order to get the data.
 
-
 # Basic model
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/blob/Danz/Baseline.ipynb)
@@ -17,6 +16,6 @@ Computer Vision Project as part of an ITC Data Science course
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/blob/Danz/Evaluation_a_model.ipynb)
 
-# InceptionResNet_16b_5p_Nadam
+# training best model
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/blob/Danz/InceptionResNetV2_NF_16b_5p_Nadam.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/blob/Danz/final_model.ipynb)
