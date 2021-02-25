@@ -16,6 +16,6 @@ Computer Vision Project as part of an ITC Data Science course
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/blob/main/Evaluation_a_model.ipynb)
 
-# training best model
+# Training best model
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ywigelman/TheCatheterNinjas/blob/main/final_model.ipynb)
